@@ -1,0 +1,16 @@
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\bin\Debug\net7.0\projectHtml.exe
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\bin\Debug\net7.0\HtmlTags.json
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\bin\Debug\net7.0\HtmlVoidTags.json
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\bin\Debug\net7.0\projectHtml.deps.json
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\bin\Debug\net7.0\projectHtml.runtimeconfig.json
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\bin\Debug\net7.0\projectHtml.dll
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\bin\Debug\net7.0\projectHtml.pdb
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\obj\Debug\net7.0\projectHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\obj\Debug\net7.0\projectHtml.AssemblyInfoInputs.cache
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\obj\Debug\net7.0\projectHtml.AssemblyInfo.cs
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\obj\Debug\net7.0\projectHtml.csproj.CoreCompileInputs.cache
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\obj\Debug\net7.0\projectHtml.dll
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\obj\Debug\net7.0\refint\projectHtml.dll
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\obj\Debug\net7.0\projectHtml.pdb
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\obj\Debug\net7.0\projectHtml.genruntimeconfig.cache
+D:\the user\Desktop\תיכנות\practicode\projecthtmlfolder\projectHtml\obj\Debug\net7.0\ref\projectHtml.dll
